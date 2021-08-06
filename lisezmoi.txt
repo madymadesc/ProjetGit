@@ -1,5 +1,5 @@
-mady.camara@DCIREODC18 MINGW64 ~
-$ cd /d
+C:\Users\mady.camara>git --version
+git version 2.32.0.windows.2
 
 mady.camara@DCIREODC18 MINGW64 /d (master)
 $ mkdir ProjetGit
